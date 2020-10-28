@@ -1,2 +1,1 @@
-# netflix-react-clone
-Netflix front-end built with react
+![app screenshot](https://github.com/deftstrokes86/netflix-react-clone/blob/master/app-screenshot.png)
